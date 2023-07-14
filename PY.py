@@ -27,7 +27,7 @@ t=(mm + "/" + dd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss)
 
 hours = (now.hour)
 x = datetime.datetime.now()
-g= datetime.datetime(2023, 7, 14, 2, 00 ,0)
+g= datetime.datetime(2023, 7, 15, 2, 00 ,0)
 
 if (x.strftime("%x"))>(g.strftime("%x")):
  print('\n\n')
@@ -42,7 +42,7 @@ if (x.strftime("%x"))==(g.strftime("%x")):
    print('')
    if(x.strftime("%X"))>(g.strftime("%X")):
     print('\n\n')
-    print("     "+' انتهت الصلاحيه عليك بمراسله المطورللحصول على احدث نسخه @PY_23 🖤' )
+    print("     "+' انتهت الصلاحيه عليك بمراسله المطورللحصول على احدث نسخه @FG_on🖤' )
     print('\n\n')
     print(x)
     
