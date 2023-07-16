@@ -27,7 +27,7 @@ t=(mm + "/" + dd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss)
 
 hours = (now.hour)
 x = datetime.datetime.now()
-g= datetime.datetime(2023, 7, 15, 2, 00 ,0)
+g= datetime.datetime(2023, 7, 17, 2, 00 ,0)
 
 if (x.strftime("%x"))>(g.strftime("%x")):
  print('\n\n')
