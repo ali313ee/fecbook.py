@@ -1,7 +1,7 @@
 import requests,sys,os,time
-Python = 'c7ccq'
+Python = '𝙃𝙀𝙍𝙊𝙆𝙊7'
 pss=input("ادخل الباسورد :  ")
-if pss ==𝙃𝙀𝙍𝙊𝙆𝙊7
+if pss ==Python‎: 
  pass
  print("الباسورد صحيح ✓")
  time.sleep(1)
