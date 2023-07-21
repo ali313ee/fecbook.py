@@ -1,4 +1,13 @@
-
+import requests,sys,os,time
+Python = 'c7ccq'
+pss=input("ادخل الباسورد :  ")
+if pss ==𝙃𝙀𝙍𝙊𝙆𝙊7
+ pass
+ print("الباسورد صحيح ✓")
+ time.sleep(1)
+ os.system('clear')
+else:
+ exit('الباسورد خطأ🚫 ')
 import requests,bs4,json,os,sys,random,datetime,time,re
 
 import urllib3,rich,base64
