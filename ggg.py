@@ -1,21 +1,17 @@
 
-
 import os
 try:
     import uuid
 except:
     os.system('pip install uuid')
-
 try:
     from random import *
 except:
     os.systeam('pip install random ')
-
 try:
     import string
 except:
     os.system('pip install string')
-
 try:
     import requests
 except:
@@ -93,8 +89,6 @@ if (x.strftime("%x"))>(g.strftime("%x")):
  time.sleep(1)
  print('\033[1;31m 3')
  time.sleep(1)
- webbrowser.open('https://t.me/nader20090')
- exit()
  open(".token.txt", "w").write(' . . . .')
  print(x)
  
