@@ -53,7 +53,7 @@ else:
         B = '\x1b[2;36m'
         C = '\x1b[2;35m'
         sleep(0.1)
-        P55 = pyfiglet.figlet_format('NADER')
+        P55 = pyfiglet.figlet_format('HRROKO')
         print(G + P55)
         sleep(2)
         os.system('clear')
