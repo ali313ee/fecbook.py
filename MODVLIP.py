@@ -683,8 +683,8 @@ def menu(my_name,my_id):
 	ip = requests.get("https://api.ipify.org").text
 	
 	os.system('clear')
-	banner()
-    print('𝙃𝙀𝙍𝙊𝙆𝙊')
+
+
 	print('')
 	print('>> 1. FRIND ')
 	print('>> 2. Crack Follower')
